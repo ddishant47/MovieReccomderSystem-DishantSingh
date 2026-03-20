@@ -16,8 +16,6 @@ Numpy
 Installation
 Clone the repository:
 
-git clone https://github.com/abhi23shek/movie-recommender-system.git
-cd movie-recommender-system
 Install the required packages:
 
 pip install streamlit pandas requests numpy
